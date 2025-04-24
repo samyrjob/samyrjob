@@ -54,6 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/samyrjob/Automation_Applications/pull/4) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
+2. 💪 Opened PR [#4](https://github.com/samyrjob/Automation_Applications/pull/4) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
+3. 🎉 Merged PR [#3](https://github.com/samyrjob/Automation_Applications/pull/3) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
+4. 💪 Opened PR [#3](https://github.com/samyrjob/Automation_Applications/pull/3) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
+5. 🎉 Merged PR [#2](https://github.com/samyrjob/Automation_Applications/pull/2) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
 <!--END_SECTION:activity-->
 
 
