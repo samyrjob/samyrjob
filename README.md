@@ -51,46 +51,16 @@ My work philosophy consists of three key points:
 <br>
 </br>
 
+## 📌 Recent Activity 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
 
-
-## 🛠️ Favorite Working Tools :
-
-
-
-### LucidChart : Workflow Management 
-![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6B00?style=flat&logo=lucidchart&logoColor=white)
-
-Example : Task-oriented Workflow Management use through LucidChart : 
-
-
-![image](https://github.com/user-attachments/assets/a3a2b3f0-a863-467e-bd37-8efbd65c7cd6)
-
-
-
-
-
-Example : Software Architecture of the Full Stack system of my project FUTURA regarding the creation of a new User :
-
-
-
-![image](https://github.com/user-attachments/assets/ddee84ff-d7cf-489a-b604-4031694c3a1c)
-
-
-
-### Notion : My favorite tool to monitor my work projects
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/95149686-eef1-4d0a-82fe-ab9e79c0af20)
-
-
+<br>
+</br>
 
 ## ⏳ My Daily Routine :
 ```mermaid
