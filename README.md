@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/samyrjob/Futura_Front/pull/7) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-2. 💪 Opened PR [#7](https://github.com/samyrjob/Futura_Front/pull/7) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-3. 🎉 Merged PR [#6](https://github.com/samyrjob/Futura_Front/pull/6) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-4. 💪 Opened PR [#6](https://github.com/samyrjob/Futura_Front/pull/6) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-5. 🎉 Merged PR [#4](https://github.com/samyrjob/Automation_Applications/pull/4) in [samyrjob/Automation_Applications](https://github.com/samyrjob/Automation_Applications)
+1. 🎉 Merged PR [#8](https://github.com/samyrjob/Futura_Front/pull/8) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
+2. 💪 Opened PR [#8](https://github.com/samyrjob/Futura_Front/pull/8) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
+3. 🎉 Merged PR [#7](https://github.com/samyrjob/Futura_Front/pull/7) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
+4. 💪 Opened PR [#7](https://github.com/samyrjob/Futura_Front/pull/7) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
+5. 🎉 Merged PR [#6](https://github.com/samyrjob/Futura_Front/pull/6) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
 <!--END_SECTION:activity-->
 
 
