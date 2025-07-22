@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/samyrjob/searchBot_simulation/pull/11) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
-2. 💪 Opened PR [#11](https://github.com/samyrjob/searchBot_simulation/pull/11) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
-3. 🎉 Merged PR [#10](https://github.com/samyrjob/searchBot_simulation/pull/10) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
-4. 💪 Opened PR [#10](https://github.com/samyrjob/searchBot_simulation/pull/10) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
-5. 🎉 Merged PR [#9](https://github.com/samyrjob/searchBot_simulation/pull/9) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
+1. 🎉 Merged PR [#12](https://github.com/samyrjob/searchBot_simulation/pull/12) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
+2. 💪 Opened PR [#12](https://github.com/samyrjob/searchBot_simulation/pull/12) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
+3. 🎉 Merged PR [#11](https://github.com/samyrjob/searchBot_simulation/pull/11) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
+4. 💪 Opened PR [#11](https://github.com/samyrjob/searchBot_simulation/pull/11) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
+5. 🎉 Merged PR [#10](https://github.com/samyrjob/searchBot_simulation/pull/10) in [samyrjob/searchBot_simulation](https://github.com/samyrjob/searchBot_simulation)
 <!--END_SECTION:activity-->
 
 
