@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/samyrjob/JavaSocketsGame/pull/1) in [samyrjob/JavaSocketsGame](https://github.com/samyrjob/JavaSocketsGame)
-2. 💪 Opened PR [#1](https://github.com/samyrjob/JavaSocketsGame/pull/1) in [samyrjob/JavaSocketsGame](https://github.com/samyrjob/JavaSocketsGame)
-3. 🎉 Merged PR [#3](https://github.com/samyrjob/Futura/pull/3) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-4. 💪 Opened PR [#3](https://github.com/samyrjob/Futura/pull/3) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-5. 🎉 Merged PR [#2](https://github.com/samyrjob/Futura/pull/2) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+1. 🎉 Merged PR [#2](https://github.com/samyrjob/N_Games/pull/2) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
+2. 💪 Opened PR [#2](https://github.com/samyrjob/N_Games/pull/2) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
+3. 🎉 Merged PR [#1](https://github.com/samyrjob/JavaSocketsGame/pull/1) in [samyrjob/JavaSocketsGame](https://github.com/samyrjob/JavaSocketsGame)
+4. 💪 Opened PR [#1](https://github.com/samyrjob/JavaSocketsGame/pull/1) in [samyrjob/JavaSocketsGame](https://github.com/samyrjob/JavaSocketsGame)
+5. 🎉 Merged PR [#3](https://github.com/samyrjob/Futura/pull/3) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
 <!--END_SECTION:activity-->
 
 
