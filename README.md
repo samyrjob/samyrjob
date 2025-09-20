@@ -6,7 +6,7 @@
 -->
 # Samy Rjob
 
-Hello! I'm Samy 👨‍💻, an experienced French Full Stack Developer. Skilled in a broad range of languages such as Python 🐍, Java ⚡️☕️, Ruby 💎 and TypeScript. I design effective solutions with great efficiency 🚀. I'm driven to expand my expertise in building scalable, high-impact software solutions 📊. I introduce myself as a real tech spearhead to boost the growth of your business 💼. 
+Hello! My name is Samy 👨‍💻, a passionate and experienced French Full Stack Developer. Skilled in a broad range of languages such as Python 🐍, Java ⚡️☕️, Ruby 💎 and TypeScript. I design effective solutions with great efficiency 🚀. I'm driven to expand my expertise in building scalable, high-impact software solutions 📊. I introduce myself as a real tech spearhead to boost the growth of your business 💼. 
 
 My work philosophy consists of three key points:
 
