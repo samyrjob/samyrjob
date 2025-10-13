@@ -54,10 +54,10 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/samyrjob/N_Games/pull/6) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
-2. 💪 Opened PR [#6](https://github.com/samyrjob/N_Games/pull/6) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
-3. 🎉 Merged PR [#4](https://github.com/samyrjob/N_Games/pull/4) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
-4. 💪 Opened PR [#4](https://github.com/samyrjob/N_Games/pull/4) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
+1. 🎉 Merged PR [#7](https://github.com/samyrjob/N_Games/pull/7) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
+2. 💪 Opened PR [#7](https://github.com/samyrjob/N_Games/pull/7) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
+3. ❌ Closed PR [#3](https://github.com/mathkimchi/JavaSocketsGame/pull/3) in [mathkimchi/JavaSocketsGame](https://github.com/mathkimchi/JavaSocketsGame)
+4. 💪 Opened PR [#3](https://github.com/mathkimchi/JavaSocketsGame/pull/3) in [mathkimchi/JavaSocketsGame](https://github.com/mathkimchi/JavaSocketsGame)
 5. 🎉 Merged PR [#3](https://github.com/samyrjob/N_Games/pull/3) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
 <!--END_SECTION:activity-->
 
