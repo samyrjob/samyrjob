@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-2. 💪 Opened PR [#4](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-3. 💪 Opened PR [#7](undefined) in [samyrjob/N_Games](https://github.com/samyrjob/N_Games)
-4. ❌ Closed PR [#3](undefined) in [mathkimchi/JavaSocketsGame](https://github.com/mathkimchi/JavaSocketsGame)
-5. 💪 Opened PR [#3](undefined) in [mathkimchi/JavaSocketsGame](https://github.com/mathkimchi/JavaSocketsGame)
+1. ❌ Labeled PR [#6](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+2. ❌ Assigned PR [#6](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+3. 💪 Opened PR [#6](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+4. 💪 Opened PR [#5](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+5. 💪 Opened PR [#4](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
 <!--END_SECTION:activity-->
 
 
