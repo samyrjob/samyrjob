@@ -57,8 +57,8 @@ My work philosophy consists of three key points:
 1. ❌ Labeled PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
 2. ❌ Labeled PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
 3. ❌ Labeled PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
-4. 💪 Opened PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
-5. ❌ Assigned PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
+4. ❌ Assigned PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
+5. 💪 Opened PR [#4](undefined) in [samyrjob/LudicoAI](https://github.com/samyrjob/LudicoAI)
 <!--END_SECTION:activity-->
 
 
