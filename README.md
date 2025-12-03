@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
-2. 💪 Opened PR [#3](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
-3. 💪 Opened PR [#2](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
-4. ❌ Labeled PR [#1](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
-5. 💪 Opened PR [#1](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
+1. ❌ Merged PR [#3](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
+2. ❌ Labeled PR [#3](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
+3. 💪 Opened PR [#3](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
+4. ❌ Merged PR [#2](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
+5. 💪 Opened PR [#2](undefined) in [samyrjob/LudicoAI_V2](https://github.com/samyrjob/LudicoAI_V2)
 <!--END_SECTION:activity-->
 
 
