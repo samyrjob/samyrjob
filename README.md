@@ -54,11 +54,11 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#38](https://github.com/samyrjob/Futura/issues/38) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-2.  Labeled issue [#38](https://github.com/samyrjob/Futura/issues/38) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-3.  Labeled issue [#39](https://github.com/samyrjob/Futura/issues/39) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-4.  Labeled issue [#41](https://github.com/samyrjob/Futura/issues/41) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
-5. ❗ Opened issue [#41](https://github.com/samyrjob/Futura/issues/41) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+1. ❌ Merged PR [#50](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+2. 🗣 Commented on [#50](https://github.com/samyrjob/Futura/pull/50#issuecomment-3636070756) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+3. ❌ Labeled PR [#50](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+4. 💪 Opened PR [#50](undefined) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+5. 🔒 Closed issue [#46](https://github.com/samyrjob/Futura/issues/46) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
 <!--END_SECTION:activity-->
 
 
