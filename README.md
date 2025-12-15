@@ -44,9 +44,13 @@ My work philosophy consists of three key points:
 <br />
 
 ## 📊 Github Stats
-![used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyrjob&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5)
-![samy github stats](https://github-readme-stats.vercel.app/api?username=samyrjob&hide_title=true&include_all_commits=false&line_height=24&theme=radical&hide_title=false).
-![streak stats github](https://github-readme-streak-stats.herokuapp.com/?user=samyrjob&hide_title=true&theme=radical)
+## 📊 Github Stats
+
+![used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyrjob&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5&count_private=true&include_all_commits=true)
+
+![samy github stats](https://github-readme-stats.vercel.app/api?username=samyrjob&include_all_commits=true&count_private=true&line_height=24&theme=radical&show_icons=true)
+
+![streak stats github](https://github-readme-streak-stats.herokuapp.com/?user=samyrjob&theme=radical)
 
 <br>
 </br>
