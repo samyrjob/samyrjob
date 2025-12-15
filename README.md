@@ -50,7 +50,7 @@ My work philosophy consists of three key points:
 
 ![samy github stats](https://github-readme-stats.vercel.app/api?username=samyrjob&include_all_commits=true&count_private=true&line_height=24&theme=radical&show_icons=true)
 
-![streak stats github](https://github-readme-streak-stats.herokuapp.com/?user=samyrjob&theme=radical)
+![streak stats github](https://github-readme-streak-stats.herokuapp.com/?user=samyrjob&hide_title=true&theme=radical)
 
 <br>
 </br>
