@@ -44,7 +44,7 @@ My work philosophy consists of three key points:
 <br />
 
 ## 📊 Github Stats
-## 📊 Github Stats
+
 
 ![used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyrjob&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5&count_private=true&include_all_commits=true)
 
