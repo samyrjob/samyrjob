@@ -24,6 +24,12 @@ My work philosophy consists of three key points:
 
 ## 🔨 Languages and Tools:
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img align="left" 
+     alt="Golang" 
+     width="26px" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+     style="padding-right:10px;" />
+
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
   <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" style="padding-right:10px;" />
   <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="padding-right:10px;" />
