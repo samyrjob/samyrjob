@@ -60,7 +60,7 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#19](https://github.com/samyrjob/Futura_Front/pull/19) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
+1. 🗣 Commented on [#3942](https://github.com/chroma-core/chroma/issues/3942#issuecomment-3770343721) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
 2. 💪 Opened PR [#19](https://github.com/samyrjob/Futura_Front/pull/19) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
 3. ℹ️ Assigned PR [#19](https://github.com/samyrjob/Futura_Front/pull/19) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
 4. ℹ️ Labeled issue [#60](https://github.com/samyrjob/Futura/issues/60) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
