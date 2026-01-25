@@ -51,6 +51,17 @@ My work philosophy consists of three key points:
 
 ## 📊 Github Stats
 
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/languages.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 
