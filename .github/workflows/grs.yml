@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs daily at 3 AM
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -29,8 +29,6 @@ jobs:
           options: username=samyrjob&layout=compact&count_private=true&theme=radical&langs_count=8&exclude_repo=rails-task-manager,rails-simple-airbnb,rails-yelp-mvp,rails-watch-list,airbnbsamy,samyrbnb,punditest,Test_Application_Before_Traineeplus,Yes_Germany_Project,Streamlit_YG_App_Version1.0
           path: profile/languages.svg
           token: ${{ secrets.GH_TOKEN }}
-       continue-on-error: false
-       
 
       - name: Commit cards
         run: |
