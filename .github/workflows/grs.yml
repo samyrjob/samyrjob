@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=samyrjob&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show=reviews,discussions_started,discussions_answered
+          options: username=samyrjob&show_icons=true&count_private=true&include_all_commits=true&theme=radical
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
