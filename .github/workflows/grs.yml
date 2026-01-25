@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=samyrjob&show_icons=true&count_private=true&include_all_commits=true&theme=radical
+          options: username=samyrjob&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show=reviews,discussions_started,discussions_answered
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=samyrjob&layout=compact&count_private=true&theme=radical&langs_count=8
+          options: username=samyrjob&layout=compact&count_private=true&theme=radical&langs_count=8exclude_repo=rails-task-manager,rails-simple-airbnb,rails-yelp-mvp,rails-watch-list,airbnbsamy,samyrbnb,punditest,Test_Application_Before_Traineeplus,Yes_Germany_Project,Streamlit_YG_App_Version1.0,
           path: profile/languages.svg
           token: ${{ secrets.GH_TOKEN }}
 
