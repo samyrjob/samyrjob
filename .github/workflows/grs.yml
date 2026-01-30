@@ -30,13 +30,12 @@ jobs:
           path: profile/languages.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate GitHub streak card
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          user: samyrjob
-          theme: radical
-          hide_border: true
-          output: profile/streak.svg
+      - name: Generate GitHub streak SVG
+        run: |
+          curl -L \
+            "https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true" \
+            -o profile/streak.svg
+
 
 
       - name: Commit cards
