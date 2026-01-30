@@ -33,7 +33,7 @@ jobs:
       - name: Generate GitHub streak SVG
         run: |
           curl -L \
-            "https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true" \
+            "https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true&token=${{ secrets.GH_TOKEN }}" \
             -o profile/streak.svg
 
 
