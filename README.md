@@ -60,7 +60,7 @@ My work philosophy consists of three key points:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true" alt="GitHub Streak" />
+ <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 
