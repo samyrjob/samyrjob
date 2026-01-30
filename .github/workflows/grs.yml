@@ -36,6 +36,10 @@ jobs:
             "https://streak-stats.demolab.com/?user=samyrjob&theme=radical&hide_border=true&token=${{ secrets.GH_TOKEN }}" \
             -o profile/streak.svg
 
+       - name: Generate GitHub streak SVG through Vercel
+        run: |
+          curl -L "https://github-readme-streak-stats-eight.vercel.app/?user=samyrjob&theme=radical&hide_border=true" -o profile/streak2.svg
+
 
 
       - name: Commit cards
