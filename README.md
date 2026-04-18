@@ -17,7 +17,7 @@ My work philosophy consists of three key points:
 ## 🤝 Let's Connect
 
   [<img align="left" alt="Linkstack" width="40px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg" style="padding-right:10px;" />](https://linksta.cc/@SamyRJOB)
-  [<img align="left" alt="hadibereksi | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/samy-rjob-800315176/)
+  [<img align="left" alt="samy rjob linkedin profile | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/samy-rjob-800315176/)
 
 <br>
 </br>
