@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README
 
 on:
   schedule:
@@ -13,6 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # Updates the activity section between your tags
+      - name: Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          COMMIT_MSG: "Update recent activity"
+          MAX_LINES: 5
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -34,10 +43,10 @@ jobs:
         run: |
           curl -L "https://github-readme-streak-stats-eight.vercel.app/?user=samyrjob&theme=radical&hide_border=true" -o profile/streak.svg
 
-      - name: Commit cards
+      - name: Commit and Push cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
