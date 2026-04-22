@@ -71,10 +71,10 @@ My work philosophy consists of three key points:
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3942](https://github.com/chroma-core/chroma/issues/3942#issuecomment-3770343721) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-2. 💪 Opened PR [#19](https://github.com/samyrjob/Futura_Front/pull/19) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-3. ℹ️ Assigned PR [#19](https://github.com/samyrjob/Futura_Front/pull/19) in [samyrjob/Futura_Front](https://github.com/samyrjob/Futura_Front)
-4. ℹ️ Labeled issue [#60](https://github.com/samyrjob/Futura/issues/60) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+1. 🎉 Merged PR [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+2. 🗣 Commented on [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3#issuecomment-4281033598) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+3. 🗣 Commented on [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3#issuecomment-4280992252) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+4. 💪 Opened PR [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
 5. ❗ Opened issue [#60](https://github.com/samyrjob/Futura/issues/60) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
 <!--END_SECTION:activity-->
 
