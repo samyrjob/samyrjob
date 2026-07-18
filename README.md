@@ -6,21 +6,39 @@
 -->
 # Samy Rjob
 
-Hello! My name is Samy 👨‍💻, a passionate and experienced French Software Engineer and Developer. Skilled in a broad range of languages such as Python 🐍, Java ⚡️☕️, Ruby 💎 and TypeScript. I design effective solutions with great efficiency 🚀. I'm driven to expand my expertise in building scalable, high-impact software solutions 📊. I introduce myself as a real tech spearhead to boost the growth of your business 💼. 
+Hello! I'm Samy 👨‍💻 — a French software engineer based in Manchester. I build software that runs in production: backends, real-time systems and AI products.
 
-My work philosophy consists of three key points:
+## What I'm building
 
-🤝 Collaboration | 🗂️ Organization | 💡 Creativity
+🎮 **[Futura](https://futura-game.com)** — a multiplayer virtual world I designed, built and operate solo. Java/Spring Boot backend, Angular front end, cryptographically signed desktop client in Go.
+
+🤝 **[Elite Talents](https://elitetalents.fr/)** — co-founder of a live recruitment platform. I built its 165-endpoint Next.js API, the Postgres schema and the security model (RLS on every table).
+
+🤖 **[2YM Chatbot](https://uoc2ndyearbot.site/)** — a production RAG assistant used by real university cohorts for my MSc at the University of Chester. It answers in 9.4 seconds median, versus a two-day staff wait, and only when confident.
+
+🛠️ **[Piskel MCP Server](https://github.com/samyrjob/piskel-mcp-server)** — open-source, LLM-drivable pixel-art engine with ~50 MCP tools.
+
+## Stack
+
+☕ Java · 🐹 Go · 📘 TypeScript · 🐍 Python · 💎 Ruby
+
+Spring Boot · Next.js · PostgreSQL · Redis · Kafka · Docker · AWS
+
+## Links
+
+📁 [Portfolio](https://samyrjob.github.io/portfolio) · 💼 [LinkedIn](https://www.linkedin.com/in/samy-rjob-800315176/) · 📄 [CV](https://samyrjob.github.io/portfolio/Samy_Rjob_CV_UK.pdf)
 
 <br>
 
 ## 🤝 Let's Connect
 
   [<img align="left" alt="Linkstack" width="40px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg" style="padding-right:10px;" />](https://linksta.cc/@SamyRJOB)
-  [<img align="left" alt="samy rjob | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/samy-rjob-800315176/)
+  [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/samy-rjob-800315176/)
 
 <br>
-</br>
+<br/>
+
+<br clear="both">
 
 ## 🔨 Languages and Tools:
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
