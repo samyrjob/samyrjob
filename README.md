@@ -12,7 +12,7 @@ Hello! I'm Samy 👨‍💻 — a French software engineer based in Manchester. 
 
 🎮 **[Futura](https://futura-game.com)** — a multiplayer virtual world I designed, built and operate solo. Java/Spring Boot backend, Angular front end, cryptographically signed desktop client in Go.
 
-🤝 **[Elite Talents](https://elitetalents.fr/)** — co-founder of a live recruitment platform. I built its 165-endpoint Next.js API, the Postgres schema and the security model (RLS on every table).
+🤝 **[Elite Talents](https://elitetalents.fr/)** — Backend Engineer of a live recruitment platform. I built its 165-endpoint Next.js API, the Postgres schema and the security model (RLS on every table).
 
 🤖 **[2YM Chatbot](https://uoc2ndyearbot.site/)** — a production RAG assistant used by real university cohorts for my MSc at the University of Chester. It answers in 9.4 seconds median, versus a two-day staff wait, and only when confident.
 
