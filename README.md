@@ -89,7 +89,7 @@ Spring Boot · Next.js · PostgreSQL · Redis · Kafka · Docker · AWS
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+1. 💪 Opened PR [#44002](https://github.com/is-a-dev/register/pull/44002) in [is-a-dev/register](https://github.com/is-a-dev/register)
 2. 🗣 Commented on [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3#issuecomment-4281033598) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
 3. 🗣 Commented on [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3#issuecomment-4280992252) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
 4. 💪 Opened PR [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
