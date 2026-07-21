@@ -5,8 +5,7 @@
 
 -->
 # Samy Rjob
-
-Hello! I'm Samy 👨‍💻 — a French software engineer based in Manchester. I build software that runs in production: backends, real-time systems and AI products.
+Hello! I'm Samy 👨‍💻 — a French software engineer based in Manchester, building software since 2022. I build backends, real-time systems and AI products that run in production.
 
 ## What I'm building
 
