@@ -88,11 +88,11 @@ Spring Boot · Next.js · PostgreSQL · Redis · Kafka · Docker · AWS
 ## 📌 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44002](https://github.com/is-a-dev/register/pull/44002) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#44002](https://github.com/is-a-dev/register/pull/44002) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3#issuecomment-4280992252) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
-4. 💪 Opened PR [#3](https://github.com/yafeiaa/piskel-mcp-server/pull/3) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
-5. ❗ Opened issue [#60](https://github.com/samyrjob/Futura/issues/60) in [samyrjob/Futura](https://github.com/samyrjob/Futura)
+1. 🗣 Commented on [#7](https://github.com/yafeiaa/piskel-mcp-server/pull/7#issuecomment-5079428031) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+2. 🗣 Commented on [#7](https://github.com/yafeiaa/piskel-mcp-server/pull/7#issuecomment-5079422839) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+3. 💪 Opened PR [#7](https://github.com/yafeiaa/piskel-mcp-server/pull/7) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+4. ❌ Closed PR [#6](https://github.com/yafeiaa/piskel-mcp-server/pull/6) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
+5. 🗣 Commented on [#6](https://github.com/yafeiaa/piskel-mcp-server/pull/6#issuecomment-5079378052) in [yafeiaa/piskel-mcp-server](https://github.com/yafeiaa/piskel-mcp-server)
 <!--END_SECTION:activity-->
 
 
