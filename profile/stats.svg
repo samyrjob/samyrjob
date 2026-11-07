@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">RJOB SAMY's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 27, Total Commits  : 671, Total PRs: 769, Total Issues: 160, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 27, Total Commits  : 671, Total PRs: 769, Total Issues: 163, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.04790869301574;
+        stroke-dashoffset: 94.0281145485144;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >160</text>
+      >163</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
