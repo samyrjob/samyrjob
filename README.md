@@ -29,7 +29,7 @@ Spring Boot · Angular · Next.js · PostgreSQL · MySQL · Redis · Kafka · Do
 
 ## Links
 
-📁 [Portfolio](https://samyrjob.is-a.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/samy-rjob-800315176/) · 📄 [CV](https://samyrjob.github.io/portfolio/Samy_Rjob_CV_AI_Engineer.pdf)
+📁 [Portfolio](https://samyrjob.is-a.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/samy-rjob-800315176/) · 📄 [CV](https://samyrjob.github.io/portfolio/Samy_Rjob_CV.pdf)
 
 <br>
 
